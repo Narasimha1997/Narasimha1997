@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@narasimhaprasannahn](https://medium.com/@narasimhaprasannahn)
 
-- Ask me **Full Stack application development, Video Processing, Mircoservices, Kubernetes, Docker, Distributed systems and AI.**
+- Ask me about **Full Stack application development, Video Processing, Mircoservices, Kubernetes, Docker, Distributed systems and AI.**
 
 - 📫 How to reach me **narasimhaprasannahn@gmail.com**
 

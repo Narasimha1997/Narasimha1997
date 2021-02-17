@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narasimha1997" alt="narasimha1997" /> </p>
 
-- I am a Full Stack Developer at [Cognitifai](http://cognitif.ai/)
+- I am a Software Developer at [Cognitifai](http://cognitif.ai/)
 
-- 👨‍💻 All of my projects are available at [https://narasimha1997.github.io/#/](https://narasimha1997.github.io/#/)
+- 👨‍💻 All of my projects are available on my [website](https://narasimha1997.github.io/#/)
 
 - 📝 I regulary write articles on [Dev.to](https://dev.to/narasimha1997)
 

@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://narasimha1997.github.io/#/](https://narasimha1997.github.io/#/)
 
-- 📝 I regulary write articles on [https://medium.com/@narasimhaprasannahn](https://medium.com/@narasimhaprasannahn)
+- 📝 I regulary write articles on [Dev.to](https://dev.to/narasimha1997)
 
 - Ask me about **Full Stack application development, Video Processing, Mircoservices, Kubernetes, Docker, Distributed systems and AI.**
 

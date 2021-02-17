@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **narasimhaprasannahn@gmail.com**
 
-
-[![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narasimha1997)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha1997&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://dev.to/https://dev.to/narasimha1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/narasimha1997" height="30" width="30" /></a>

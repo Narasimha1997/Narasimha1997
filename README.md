@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **narasimhaprasannahn@gmail.com**
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Narasimha1997&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha1997&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
 <p align="center">
 <a href="https://dev.to/https://dev.to/narasimha1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/narasimha1997" height="30" width="30" /></a>
 <a href="https://twitter.com/https://twitter.com/prasannahn1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/prasannahn1997" height="30" width="30" /></a>

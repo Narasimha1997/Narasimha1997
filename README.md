@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [Dev.to](https://dev.to/narasimha1997)
 
-- Ask me about **Full Stack application development, Video Processing, Mircoservices, Kubernetes, Docker, Distributed systems and AI.**
+- Ask me about **Full Stack application development, Video Processing, Mircoservices, Kubernetes and AI**
 
 - 📫 How to reach me **narasimhaprasannahn@gmail.com**
 

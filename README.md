@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narasimha Prasanna HN</h1>
-<h3 align="center">A passionate Software Developer from India who can build Web apps, Distributed computing systems,AI systems and video streaming applications using JavaScript, Python, C/C++ and Go.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narasimha1997" alt="narasimha1997" /> </p>
 

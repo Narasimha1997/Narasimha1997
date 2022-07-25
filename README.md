@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **narasimhaprasannahn@gmail.com**
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha1997&layout=compact&langs_count=15&theme=dark">
+
 <p align="center">
 <a href="https://dev.to/https://dev.to/narasimha1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/narasimha1997" height="30" width="30" /></a>
 <a href="https://twitter.com/https://twitter.com/prasannahn1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/prasannahn1997" height="30" width="30" /></a>
